@@ -1,0 +1,27 @@
+.start-page {
+  width: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  color: #fffcea;
+}
+
+
+.start-page p {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    margin: 40px;
+}
+
+.start-page-buttons {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 30px;
+}
